@@ -1,0 +1,1 @@
+This is an example of shop, where cart and delivery information is set using classes and methods. Was also used in practice some notions as composition. 

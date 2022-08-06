@@ -1,0 +1,1 @@
+Here I will post code written in Typescript that I made just to improve my skills in using this programming language.
