@@ -1,0 +1,1 @@
+This is an exericese that I have done to improve my knowledge of such concept as abstraction - one pillar of OOP
