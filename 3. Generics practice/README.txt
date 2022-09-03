@@ -1,0 +1,1 @@
+This is a simple code was written just to improve abilities in using generics in Typescript. Also, in practice was applied the ability to sort an array of objects.
